@@ -1,0 +1,11 @@
+apiVersion: v0.1.0
+envs:
+- name: dev
+  path: .xlr8s/envs/dev/env.yaml
+git:
+  repoUrl: git@github.com:xi2817-aajgaonkar/local-first.git
+  revision: main
+name: local-first-6123
+vars:
+  apps: null
+  policy: null
